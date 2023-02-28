@@ -1,0 +1,7 @@
+.gradle
+.idea
+allure-report
+allure-results
+build
+gradle
+src/test/resources/emi-calc.apk
